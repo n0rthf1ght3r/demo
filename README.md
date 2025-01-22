@@ -17,7 +17,6 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 
-При необходимости прикрепитe сюда скриншоты
 ![img1](https://github.com/n0rthf1ght3r/demo/blob/main/img/template.png)
 ![img2](https://github.com/n0rthf1ght3r/demo/blob/main/img/items.png)
 
